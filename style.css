@@ -192,13 +192,13 @@ section {
 }
 
 .main-visual-img {
-  background-image: url(../img/main-visual.jpg);
+  background-image: url(https://user-images.githubusercontent.com/72715705/108463217-55487a80-72c1-11eb-9765-ce57e5f9351f.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 @media (max-width: 767px) {
   .main-visual-img {
-    background-image: url(../img/main-visual-sp.jpg);
+    background-image: url(https://user-images.githubusercontent.com/72715705/108463217-55487a80-72c1-11eb-9765-ce57e5f9351f.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
